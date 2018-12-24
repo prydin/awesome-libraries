@@ -26,4 +26,5 @@
   {"id": "php-web", "name": "PHP Web"},
   {"id": "chat-ux", "name": "Conversational UX"},
   {"id": "elixir-web", "name": "Elixir Web"}
+  {"id": "vm", "name": "Virtual Machines"}
 ]
