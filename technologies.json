@@ -306,6 +306,7 @@
       "multiprecision",
       "ndim-cubes",
       "numbers",
+      "operations-research",
       "optimization",
       "random",
       "real-time-dsp",
@@ -1055,8 +1056,10 @@
   },
   "vm": {
     "tags": [
+      "api",
       "low-memory",
-      "risc"
+      "risc",
+      "vm"
     ]
   },
   "windows": {
